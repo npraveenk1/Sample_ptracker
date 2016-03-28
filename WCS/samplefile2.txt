@@ -1,0 +1,2 @@
+# this is a sample properties file
+sample file1
